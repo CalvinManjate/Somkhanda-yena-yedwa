@@ -147,7 +147,7 @@ h3 {
     color: white;
     margin-top: -50px;
     padding-bottom: 40px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'fresh';
     font-weight: 700;
 
 }
@@ -191,6 +191,21 @@ h3 {
         width: 100%;
     }
 
+    #clockdiv {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 20px;
+        font-size: 20px;
+        color: white;
+        margin-top: -50px;
+        padding-bottom: 40px;
+        font-family: 'fresh';
+        font-weight: 100;
+
+    }
+
     .host img {
         width: 375px;
     }
@@ -218,6 +233,21 @@ h3 {
 
     .somkhanda {
         padding-top: 50px;
+    }
+
+    #clockdiv {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        font-size: 20px;
+        font-size: 20px;
+        color: white;
+        margin-top: -50px;
+        padding-bottom: 40px;
+        font-family: 'fresh';
+        font-weight: 100;
+
     }
 
     .host img {
